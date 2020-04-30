@@ -1,6 +1,6 @@
 import React from 'react';
 import './Header.scss';
-import Logo from ''
+import Logo from './'
 
 const Header = (props) => {
     return (
@@ -14,4 +14,4 @@ const Header = (props) => {
     )
 };
 
-export default Header;
+export default Header; 
