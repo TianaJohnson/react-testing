@@ -15,3 +15,5 @@ const Header = (props) => {
 };
 
 export default Header; 
+
+// oh me?, im jusr trying to figure it out
